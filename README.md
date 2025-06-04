@@ -8,3 +8,9 @@
   - Installed Flask
   - Initialized Git
   - Created first files
+
+### 04/06/2025
+
+- **Chapter 2 - Microblog project**
+  - Added templates
+  - Added requirements.txt
