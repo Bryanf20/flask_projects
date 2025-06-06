@@ -21,4 +21,9 @@
   - Added config.py
   - Flask-WTF
   - Added login functionality
+
+### 06/06/2025
+
+- **Chapter 4 - Microblog project**
+  - Database
   
