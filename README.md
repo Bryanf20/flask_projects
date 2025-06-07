@@ -26,4 +26,10 @@
 
 - **Chapter 4 - Microblog project**
   - Database
+
+### 07/06/2025
+
+- **Chapter 4 - Microblog project**
+  - Modified user model and added post model
+  - fixed local server errors
   
