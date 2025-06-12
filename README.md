@@ -32,4 +32,11 @@
 - **Chapter 4 - Microblog project**
   - Modified user model and added post model
   - fixed local server errors
-  
+
+### 12/06/2025
+
+- **Chapteer 4 - MicroBlog project**
+  - Shell Context
+
+- **Chapteer 5 - MicroBlog project**
+  - User Login
