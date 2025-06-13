@@ -40,3 +40,8 @@
 
 - **Chapteer 5 - MicroBlog project**
   - User Login
+
+### 13/06/2025
+
+- **Chapteer 5 - MicroBlog project**
+  - User registration
