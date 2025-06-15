@@ -45,3 +45,8 @@
 
 - **Chapteer 5 - MicroBlog project**
   - User registration
+
+### 15/06/2025
+
+- **Chapteer 6 - MicroBlog project**
+  - User profile page
