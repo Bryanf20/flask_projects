@@ -50,3 +50,11 @@
 
 - **Chapteer 6 - MicroBlog project**
   - User profile page
+
+### 16/06/2025
+
+- **Chapteer 6 - MicroBlog project**
+  - Avatars with the gravatar service
+  - Jinja sub-template
+  - last seen
+  - Profile Editor
