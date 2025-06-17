@@ -58,3 +58,10 @@
   - Jinja sub-template
   - last seen
   - Profile Editor
+
+### 17/06/2025
+
+- **Chapteer 7 - MicroBlog project**
+  - Error Handling
+  - email config
+  - Logging
