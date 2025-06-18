@@ -65,3 +65,8 @@
   - Error Handling
   - email config
   - Logging
+
+### 18/06/2025
+
+- **Chapteer 8 - MicroBlog project**
+  - DB Relationships
